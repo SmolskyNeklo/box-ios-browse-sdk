@@ -20,8 +20,8 @@ s.ios.source_files        = "BoxBrowseSDK/BoxBrowseSDK/*.{h,m}", "BoxBrowseSDK/B
 s.ios.public_header_files = "BoxBrowseSDK/BoxBrowseSDK/*.h", "BoxBrowseSDK/BoxBrowseSDK/**/*.h"
 s.resource_bundle = {
    'BoxBrowseSDKResources' => [
-     'BoxBrowseSDK/BoxBrowseSDKResources/Assets/*.*',
-     'BoxBrowseSDK/BoxBrowseSDKResources/Icons/*.*',
+     'BoxBrowseSDK/Resource/Assets/*.*',
+     'BoxBrowseSDK/Resource/Icons/*.*',
    ]
 }
 # Build settings
