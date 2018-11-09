@@ -29,6 +29,7 @@ s.requires_arc          = true
 s.ios.header_dir        = "BoxBrowseSDK"
 s.module_name           = "BoxBrowseSDK"
 s.dependency              "box-ios-sdk"
+s.dependency            = "Masonry"
 s.dependency		  'MBProgressHUD', '~> 1.0.0'
 
 end
