@@ -19,7 +19,7 @@ s.ios.deployment_target = "9.0"
 s.ios.source_files        = "BoxBrowseSDK/BoxBrowseSDK/*.{h,m}", "BoxBrowseSDK/BoxBrowseSDK/**/*.{h,m}"
 s.ios.public_header_files = "BoxBrowseSDK/BoxBrowseSDK/*.h", "BoxBrowseSDK/BoxBrowseSDK/**/*.h"
 s.resource_bundle = {
-   'BoxBrowseSDKResources' => [
+   'Resource' => [
      'BoxBrowseSDK/Resource/Assets/*.*',
      'BoxBrowseSDK/Resource/Icons/*.*',
    ]
